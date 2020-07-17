@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a graduate student majoring in IE
 - 🌱 I’m currently learning optmization, machine learning
 - 📫 How to reach me: ankh@qiucle.cn
