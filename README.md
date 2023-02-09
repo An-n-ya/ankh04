@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently a graduate student majoring in IE
-- 🌱 I’m currently learning optmization, machine learning
-- 📫 How to reach me: ankh@qiucle.cn
+- 🔭 I’m currently looking for a job
+- 📫 How to reach me: ankh04@icloud.com
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ankh04)](https://github.com/anuraghazra/github-readme-stats)
